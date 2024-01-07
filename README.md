@@ -1,5 +1,6 @@
-# Machine Learning Optimization Toolkit 🤖
-## Overview
+# Machine Learning Optimization Toolkit 🤖  
+
+## Overview 🔎
 This repository contains a collection of optimization algorithms and tools designed to enhance the hyperparameter tuning process for machine learning models. The toolkit includes implementations of various optimization strategies such as Grid Search, Half Grid Search, Simulated Annealing, and Genetic Algorithm. Additionally, it features functions to visualize the optimization process, aiding in analysis and decision-making.  
 
 ## Contents 📕
