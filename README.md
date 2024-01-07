@@ -12,10 +12,10 @@ This repository contains a collection of optimization algorithms and tools desig
 
 ## Getting Started 🔨
 ### Prerequisites
-Python 3.x  
-Scikit-learn (for model building and evaluation)  
-NumPy (for numerical operations)  
-Matplotlib (for plotting results)   
+- Python 3.x  
+- Scikit-learn (for model building and evaluation)  
+- NumPy (for numerical operations)  
+- Matplotlib (for plotting results)   
 
 ### Installation
 Clone the repository to your local machine:
